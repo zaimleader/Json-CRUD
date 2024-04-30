@@ -1,0 +1,58 @@
+{
+    "LAs Status": {
+        "filter_columns": {
+            "Retard": [
+                "3 TRES RETARD",
+                "2 RETARD"
+            ],
+            "METIER": [
+                "CIWE/IHWE/ITD C2V JJH"
+            ],
+            "LA State": [
+                "Create/ Cr\u00e9e",
+                "Review/Revu",
+                "Released",
+                "Approve",
+                "(vide)",
+                ""
+            ],
+            "STATUT ECO": [
+                "Define Components",
+                "Create",
+                "Wait App. RT CP",
+                "Reviewed",
+                "Released",
+                "(vide)",
+                ""
+            ]
+        },
+        "sheet_name": "SYNCHRO METIER SIL&MOD BI4",
+        "skiprows": 16
+    },
+    "Youness Status": {
+        "filter_columns": {
+            "STATUT ECO": [
+                "3 TRES RETARD",
+                "2 RETARD",
+                "Define Components",
+                "Create",
+                "CIWE/IHWE/ITD C2V JJHWait App. RT CP",
+                "Reviewed",
+                "Released",
+                "(vide)",
+                ""
+            ],
+            "Retard": [
+                "3 TRES RETARD",
+                "2 RETARD",
+                "CIWE/IHWE/ITD C2V JJH",
+                "Wait App. RT CP"
+            ],
+            "METIER": [
+                "CIWE/IHWE/ITD C2V JJH"
+            ]
+        },
+        "sheet_name": "New Sheet Name",
+        "skiprows": 20
+    }
+}
